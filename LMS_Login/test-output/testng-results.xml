@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55952" started-at="2023-09-08T05:23:44Z" finished-at="2023-09-08T05:24:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55952" started-at="2023-09-08T05:23:44Z" finished-at="2023-09-08T05:24:40Z">
+      <class name="LMS.Login.Myjob_Calen_Bmark">
+        <test-method status="PASS" signature="lms()[pri:0, instance:LMS.Login.Myjob_Calen_Bmark@32d992b2]" name="lms" is-config="true" duration-ms="10824" started-at="2023-09-08T10:53:44Z" finished-at="2023-09-08T10:53:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lms -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:LMS.Login.Myjob_Calen_Bmark@32d992b2]" name="Login" duration-ms="43861" started-at="2023-09-08T10:53:55Z" finished-at="2023-09-08T10:54:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:LMS.Login.Myjob_Calen_Bmark@32d992b2]" name="teardown" is-config="true" duration-ms="1250" started-at="2023-09-08T10:54:38Z" finished-at="2023-09-08T10:54:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- LMS.Login.Myjob_Calen_Bmark -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
